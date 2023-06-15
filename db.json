@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "numIdent": "1",
+      "nombre": "Edward",
+      "Apellidos": "carvajal",
+      "placa": "hhb55g",
+      "tipo": "Automovil",
+      "correo": "hola@gmail.com",
+      "telefono": "12345",
+      "id": 1
+    }
+  ],
+  "servicio": [
+    {
+      "nombre": "lavado Premiun",
+      "Valor": "2000",
+      "descripcion": "se lava el carro",
+      "Puntos": "200",
+      "id": 1
+    }
+  ],
+  "compraServicio": [
+    {
+      "selectCliente": "Edward",
+      "selectServicios": "lavado Premiun",
+      "puntos": "200",
+      "valor": "2400",
+      "id": 1
+    }
+  ]
+}
